@@ -1,2 +1,2 @@
 # TP1GuilhermeIgor
-Trabalho técnicas de programação (Guilherme e Igor)
+Trabalho técnicas de programação em dupla (Guilherme e Igor)
