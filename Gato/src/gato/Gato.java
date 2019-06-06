@@ -14,10 +14,11 @@ public class Gato {
     /**
      * @param args the command line arguments
      */
-        boolean macho; 
+        boolean femea; 
         String nome;
         int idade;
-        Gato raça;
+        int registro;
+        Gato raça;   
         public Gato (String n){
                         this.nome=n;
           }
